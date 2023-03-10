@@ -1,0 +1,62 @@
+[
+   {
+      "_id": "1",
+      "name":"Sanhith" ,
+      "department": "Core Committee",
+      "mobile": "tel:+919133897791"
+   },
+   {
+     "_id": "2",
+       "name":"Sulakshana" ,
+       "department": "Department of Civil",
+       "mobile": "tel:7993903036"
+    },
+    {
+        "_id": "3",
+       "name":"Chandra Pavan" ,
+       "department": "Department of EEE",
+       "mobile": "tel:7893128515"
+    },
+    {
+      "_id": "4",
+       "name":"Vinay" ,
+       "department": "Department of Mechanical",
+       "mobile": "tel:9949600415"
+    },
+    {
+     "_id": "5",
+      "name":"Hanitha" ,
+      "department": "Department of ECE",
+      "mobile": "tel:9493712255"
+   },
+   {
+     "_id": "6",
+      "name":"Pooja" ,
+      "department": "Department of CSE",
+      "mobile": "tel:9030328801"
+   },
+   {
+     "_id": "7",
+      "name":"Sai Charan" ,
+      "department": "Department of CSM",
+      "mobile": "tel:8688149845"
+   },
+   {
+     "_id": "8",
+      "name":"Deepak Kumar" ,
+      "department": "Department of CSC",
+      "mobile": "tel:8919012886"
+   },
+   {
+     "_id": "9",
+      "name":"Santosh" ,
+      "department": "Department of IT",
+      "mobile": "tel:9110594627"
+   },
+   {
+     "_id": "10",
+      "name":"Jairaghav" ,
+      "department": "Department of MBA",
+      "mobile": "tel:9398660581"
+   }
+]
